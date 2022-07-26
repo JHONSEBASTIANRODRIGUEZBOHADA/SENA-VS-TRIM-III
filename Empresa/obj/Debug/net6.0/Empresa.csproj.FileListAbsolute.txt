@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\bin\Debug\net6.0\Empresa.exe
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\bin\Debug\net6.0\Empresa.deps.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\bin\Debug\net6.0\Empresa.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\bin\Debug\net6.0\Empresa.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\bin\Debug\net6.0\Empresa.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\refint\Empresa.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\Empresa.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Empresa\obj\Debug\net6.0\ref\Empresa.dll
