@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\bin\Debug\net6.0\SueldoPersona.exe
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\bin\Debug\net6.0\SueldoPersona.deps.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\bin\Debug\net6.0\SueldoPersona.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\bin\Debug\net6.0\SueldoPersona.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\bin\Debug\net6.0\SueldoPersona.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\refint\SueldoPersona.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\SueldoPersona.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\SueldoPersona\obj\Debug\net6.0\ref\SueldoPersona.dll
